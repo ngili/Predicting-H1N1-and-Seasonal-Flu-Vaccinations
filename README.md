@@ -5,7 +5,7 @@ Influenza(flu) is an illness that causes respiratory problems and can lead to ho
 The H1N1 pandemic began in 2009 and the influenza A virus first emerged in the United States and led to the deaths of approximately 151700-575400 people worldwide. The flu primarily affected young children and middle aged adults but surprisingly, people over 60 years old were less affected, presumably because they had antibodies against this virus, likely from exposure to an older H1N1 virus earlier in their lives. A vaccine for the flu became available to the public in October 2009 and consequently, the World Health Organisation (WHO) declared an end to the pandemic in August 2010. However, the virus continues to circulate as a seasonal [flu virus](https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html).
 
 ### Problem Statement
-> Vaccine hesitancy is the unwillingness to receive vaccines due to fears of the vaccine's effects on one's body and is one of the biggest threats to global health. People's views on vaccination are influenced by the personal and social circumstances and they can change over time. Unfortunately, the effects of vaccine hesitancy are more pronounced during pandemics and pose huge risks to the wider community as denoted in this paper by [Wiysonge CS, Ndwandwe D. et al.](https://pubmed.ncbi.nlm.nih.gov/33684019/).
+Vaccine hesitancy is the unwillingness to receive vaccines due to fears of the vaccine's effects on one's body and is one of the biggest threats to global health. People's views on vaccination are influenced by the personal and social circumstances and they can change over time. Unfortunately, the effects of vaccine hesitancy are more pronounced during pandemics and pose huge risks to the wider community as denoted in this paper by [Wiysonge CS, Ndwandwe D. et al.](https://pubmed.ncbi.nlm.nih.gov/33684019/).
 
 ### Main Objective
 
@@ -24,3 +24,7 @@ The data was split into the training and test datasets with the training data us
 ## Conclusion
 ## Recommendations
 ## Repository Guide
+The datasets used can be found[here](Dataset)
+The notebook can be found [here](analysis.ipynb)
+The presentation can be found [here]()
+The data report can be found [here]()
