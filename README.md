@@ -34,13 +34,20 @@ Some of the features that are most crucial in predicting the uptake of seasonal 
 These feature importances have also dominated all the tested models and are shown below.
 ![Important features](Images/feature_importance.png)
 
-## Conclusion
-
 ## Recommendations
 
+From the models it can be concluded that people's opinions have a huge impact on their likelihood to take vaccines. In light of this, the following recommendations can be made:-
+
+* Public awareness campaigns should be made regarding the effectiveness of the seasonal flu vaccine as well as the risks associated with the flu.
+* It would help to emphasise the safety of the vaccines for use by the public.
+* Older people are more likely to take the seasonal flu vaccine. The younger population could, therefore, be targeted for such campaigns. 
 
 ## Repository Guide
-The datasets used can be found[here](Dataset)
+
+The datasets used can be found [here](Dataset)
+
 The notebook can be found [here](analysis.ipynb)
+
 The presentation can be found [here]()
+
 The data report can be found [here]()
