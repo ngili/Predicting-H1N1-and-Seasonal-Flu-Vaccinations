@@ -31,7 +31,8 @@ Some of the features that are most crucial in predicting the uptake of seasonal 
 * The respondent's opinion on the risks involved with not being vaccinated - if a person thinks they are at high risk of getting sick they're more likely to take the vaccine
 * People older than 65
 
-These feature importances have also dominated all the tested models and are shown below.
+These feature importances have also dominated all the tested models and are shown below:
+
 ![Important features](Images/feature_importance.png)
 
 ## Recommendations
