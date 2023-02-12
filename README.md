@@ -51,6 +51,6 @@ The datasets used can be found [here](Dataset)
 
 The notebook can be found [here](analysis.ipynb)
 
-The presentation can be found [here]("Seasonal Flu Prediction.pdf")
+The presentation can be found [here](<Seasonal Flu Prediction.pdf>)
 
 The data report can be found [here](Prediction_of_H1N1_and_Seasonal_Flu_Vaccinations_Data_Report.pdf)
