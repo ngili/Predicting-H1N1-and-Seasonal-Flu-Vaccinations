@@ -1,6 +1,8 @@
 # Prediction of H1N1 and Seasonal Flu Vaccinations 
-## Introduction
+
 ![Vaccines!](Images/pexels-anna-tarazevich-5910769.jpg)
+
+## Introduction
 
 Influenza(flu) is an illness that causes respiratory problems and can lead to hospitalisation or even death in some cases as a result of its complications. People over the age of 65, young children and people with pre-existing conditions are at a higher risk of flu-related [complications](https://www.cdc.gov/flu/about/index.html). An annual seasonal flu vaccine can help mitigate the effects of the flu by reducing its severity. The vaccine causes antibodies to develop after two weeks which provide protection against the flu. Everyone over 6 months of age is advised to take the vaccine according to the [Center for Disease Control and Prevention](https://www.cdc.gov/flu/prevent/keyfacts.htm).
 
@@ -49,6 +51,6 @@ The datasets used can be found [here](Dataset)
 
 The notebook can be found [here](analysis.ipynb)
 
-The presentation can be found [here]()
+The presentation can be found [here]("Seasonal Flu Prediction.pdf")
 
 The data report can be found [here](Prediction_of_H1N1_and_Seasonal_Flu_Vaccinations_Data_Report.pdf)
