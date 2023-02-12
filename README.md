@@ -51,4 +51,4 @@ The notebook can be found [here](analysis.ipynb)
 
 The presentation can be found [here]()
 
-The dta report can be found [here](Prediction_of_H1N1_and_Seaonal_Flu_Vaccinations_Data_Report.pdf)
+The data report can be found [here](Prediction_of_H1N1_and_Seasonal_Flu_Vaccinations_Data_Report.pdf)
